@@ -1,0 +1,36 @@
+Sheet width: 400
+Sheet height: 300
+Padding: 4
+Figures:
+1 rectangle 50 40
+2 rectangle 80 60
+3 rectangle 60 30
+4 rectangle 40 70
+5 rectangle 30 30
+6 circle 20
+7 circle 30
+8 circle 25
+9 circle 35
+10 triangle 0 0 30 50 60 0
+11 triangle 0 0 25 40 50 0
+12 triangle 0 0 20 35 40 0
+13 rectangle 90 40
+14 rectangle 100 50
+15 rectangle 30 80
+16 rectangle 70 70
+17 rectangle 110 60
+18 polygon 0 0 30 50 60 0 50 -20
+19 rectangle 60 30
+20 rectangle 40 70
+21 rectangle 30 30
+22 circle 20
+23 circle 30
+24 circle 10
+25 rectangle 40 25
+26 rectangle 45 50
+27 rectangle 70 24
+28 circle 45
+29 circle 25
+
+
+

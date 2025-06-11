@@ -1,0 +1,20 @@
+Sheet width: 300
+Sheet height: 300
+Padding: 5
+Figures:
+1 circle 45
+2 circle 50
+3 circle 25
+4 circle 35
+5 circle 20
+6 circle 30
+7 circle 25
+8 circle 35
+9 circle 20
+10 circle 30
+11 circle 25
+12 circle 35
+13 circle 20
+14 circle 30
+15 circle 25
+16 circle 35

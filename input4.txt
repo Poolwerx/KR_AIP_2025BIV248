@@ -1,0 +1,16 @@
+Sheet width: 250
+Sheet height: 200
+Padding: 3
+Figures:
+1 triangle 1 1 30 50 60 0
+2 triangle 1 4 25 40 50 0
+3 triangle 5 6 20 35 40 0
+4 polygon 2 7 30 50 60 0 50 -20
+5 polygon 2 3 30 50 60 0 50 -20
+6 triangle 8 7 25 40 50 0
+7 triangle 5 01 20 35 40 0
+8 polygon 4 6 30 50 60 0 50 -20
+9 polygon 2 4 30 50 60 0 50 -20
+10 triangle 12 15 25 40 50 0
+11 triangle 5 6 20 35 40 0
+12 polygon 9 10 30 50 60 0 50 -20

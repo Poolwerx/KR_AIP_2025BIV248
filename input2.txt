@@ -1,0 +1,17 @@
+Sheet width: 300
+Sheet height: 200
+Padding: 5
+Figures:
+1 rectangle 100 90
+2 rectangle 80 60
+3 rectangle 60 30
+4 rectangle 40 70
+5 rectangle 30 30
+6 rectangle 90 40
+7 rectangle 100 50
+8 rectangle 30 80
+9 rectangle 70 70
+10 rectangle 90 40
+11 rectangle 100 50
+12 rectangle 30 80
+13 rectangle 70 70
