@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "x": 5,
+    "y": 5,
+    "rotated": false
+  },
+  {
+    "id": 2,
+    "x": 115,
+    "y": 5,
+    "rotated": false
+  },
+  {
+    "id": 6,
+    "x": 115,
+    "y": 55,
+    "rotated": false
+  },
+  {
+    "id": 3,
+    "x": 115,
+    "y": 100,
+    "rotated": false
+  },
+  {
+    "id": 4,
+    "x": 5,
+    "y": 65,
+    "rotated": false
+  },
+  {
+    "id": 5,
+    "x": 5,
+    "y": 125,
+    "rotated": false
+  },
+  {
+    "id": 7,
+    "x": 75,
+    "y": 65,
+    "rotated": true
+  },
+  {
+    "id": 8,
+    "x": 75,
+    "y": 135,
+    "rotated": true
+  }
+]

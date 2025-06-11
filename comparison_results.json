@@ -1,0 +1,33 @@
+[
+  {
+    "Algorithm": "Shelf",
+    "Placed": 27,
+    "Percent": 76.68474146666667,
+    "Time": 5.469999999974107e-05,
+    "NotPlacedIDs": [
+      19,
+      21
+    ]
+  },
+  {
+    "Algorithm": "Greedy",
+    "Placed": 29,
+    "Percent": 80.04140813333332,
+    "Time": 8.8865228,
+    "NotPlacedIDs": []
+  },
+  {
+    "Algorithm": "MaxRects",
+    "Placed": 23,
+    "Percent": 69.16164961666666,
+    "Time": 0.00306409999999957,
+    "NotPlacedIDs": [
+      8,
+      26,
+      29,
+      22,
+      5,
+      21
+    ]
+  }
+]

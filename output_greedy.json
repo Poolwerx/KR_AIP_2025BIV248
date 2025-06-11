@@ -1,0 +1,98 @@
+[
+  {
+    "id": 2,
+    "x": 5,
+    "y": 195,
+    "rotated": false
+  },
+  {
+    "id": 1,
+    "x": 110,
+    "y": 205,
+    "rotated": false
+  },
+  {
+    "id": 4,
+    "x": 205,
+    "y": 225,
+    "rotated": false
+  },
+  {
+    "id": 8,
+    "x": 205,
+    "y": 150,
+    "rotated": false
+  },
+  {
+    "id": 12,
+    "x": 110,
+    "y": 130,
+    "rotated": false
+  },
+  {
+    "id": 16,
+    "x": 5,
+    "y": 120,
+    "rotated": false
+  },
+  {
+    "id": 6,
+    "x": 280,
+    "y": 235,
+    "rotated": false
+  },
+  {
+    "id": 10,
+    "x": 280,
+    "y": 170,
+    "rotated": false
+  },
+  {
+    "id": 14,
+    "x": 280,
+    "y": 105,
+    "rotated": false
+  },
+  {
+    "id": 3,
+    "x": 185,
+    "y": 95,
+    "rotated": false
+  },
+  {
+    "id": 7,
+    "x": 80,
+    "y": 75,
+    "rotated": false
+  },
+  {
+    "id": 11,
+    "x": 5,
+    "y": 65,
+    "rotated": false
+  },
+  {
+    "id": 15,
+    "x": 240,
+    "y": 50,
+    "rotated": false
+  },
+  {
+    "id": 5,
+    "x": 135,
+    "y": 85,
+    "rotated": false
+  },
+  {
+    "id": 9,
+    "x": 295,
+    "y": 60,
+    "rotated": false
+  },
+  {
+    "id": 13,
+    "x": 180,
+    "y": 50,
+    "rotated": false
+  }
+]

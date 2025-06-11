@@ -1,0 +1,152 @@
+[
+  {
+    "id": 28,
+    "type": "circle",
+    "x": 5,
+    "y": 5
+  },
+  {
+    "id": 15,
+    "type": "rectangle",
+    "x": 100,
+    "y": 5
+  },
+  {
+    "id": 4,
+    "type": "rectangle",
+    "x": 135,
+    "y": 5
+  },
+  {
+    "id": 9,
+    "type": "circle",
+    "x": 180,
+    "y": 5
+  },
+  {
+    "id": 16,
+    "type": "rectangle",
+    "x": 255,
+    "y": 5
+  },
+  {
+    "id": 18,
+    "type": "polygon",
+    "x": 330,
+    "y": 5
+  },
+  {
+    "id": 20,
+    "type": "rectangle",
+    "x": 5,
+    "y": 100
+  },
+  {
+    "id": 2,
+    "type": "rectangle",
+    "x": 50,
+    "y": 100
+  },
+  {
+    "id": 7,
+    "type": "circle",
+    "x": 135,
+    "y": 100
+  },
+  {
+    "id": 17,
+    "type": "rectangle",
+    "x": 200,
+    "y": 100
+  },
+  {
+    "id": 23,
+    "type": "circle",
+    "x": 315,
+    "y": 100
+  },
+  {
+    "id": 8,
+    "type": "circle",
+    "x": 5,
+    "y": 175
+  },
+  {
+    "id": 10,
+    "type": "triangle",
+    "x": 60,
+    "y": 175
+  },
+  {
+    "id": 14,
+    "type": "rectangle",
+    "x": 125,
+    "y": 175
+  },
+  {
+    "id": 26,
+    "type": "rectangle",
+    "x": 230,
+    "y": 175
+  },
+  {
+    "id": 29,
+    "type": "circle",
+    "x": 280,
+    "y": 175
+  },
+  {
+    "id": 1,
+    "type": "rectangle",
+    "x": 335,
+    "y": 175
+  },
+  {
+    "id": 6,
+    "type": "circle",
+    "x": 5,
+    "y": 230
+  },
+  {
+    "id": 11,
+    "type": "triangle",
+    "x": 50,
+    "y": 230
+  },
+  {
+    "id": 13,
+    "type": "rectangle",
+    "x": 105,
+    "y": 230
+  },
+  {
+    "id": 22,
+    "type": "circle",
+    "x": 200,
+    "y": 230
+  },
+  {
+    "id": 12,
+    "type": "triangle",
+    "x": 245,
+    "y": 230
+  },
+  {
+    "id": 3,
+    "type": "rectangle",
+    "x": 290,
+    "y": 230
+  },
+  {
+    "id": 5,
+    "type": "rectangle",
+    "x": 355,
+    "y": 230
+  },
+  {
+    "id": 24,
+    "type": "circle",
+    "x": 5,
+    "y": 275
+  }
+]
